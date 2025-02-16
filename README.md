@@ -6,4 +6,5 @@ Remco Terwal
 
 Bose Corporation
 
-Framingham
+Framingham, MA
+
